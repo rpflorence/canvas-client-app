@@ -1,2 +1,5 @@
+app/main.js
+app/templates.js
+Gemfile.lock
 vendor/*
 !vendor/canvas-require-config.js
