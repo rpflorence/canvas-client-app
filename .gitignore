@@ -1,0 +1,2 @@
+vendor/*
+!vendor/canvas-require-config.js
